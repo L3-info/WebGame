@@ -1,0 +1,12 @@
+window_sizes 1280 749 300 970 583 76
+diagrams
+  active  classdiagram_ref 128136 // Diagram
+    970 583 100 4 0 0
+end
+show_stereotypes
+selected classdiagram_ref 128136 // Diagram
+open
+  classview_ref 128136 // Global
+end
+end
+verbose
