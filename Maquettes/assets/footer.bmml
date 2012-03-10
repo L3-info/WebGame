@@ -1,0 +1,17 @@
+<mockup version="1.0" skin="sketch" measuredW="860" measuredH="670" mockupW="800" mockupH="650">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="20" w="800" h="650" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="289" y="634" w="-1" h="-1" measuredW="343" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22229%2C614%2C274%2C635%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A</map>
+        <text>Accueil%2C%20Qui%20sommes-nous%2C%20Blog%2C%20Mentions%20l%E9gales</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="60" y="619" w="800" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

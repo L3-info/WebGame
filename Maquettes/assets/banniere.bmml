@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" measuredW="860" measuredH="150" mockupW="800" mockupH="130">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="60" y="20" w="800" h="100" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="305" y="45" w="-1" h="-1" measuredW="294" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20named%20game</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="60" y="120" w="791" h="30" measuredW="307" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%2C%2C%2CContact%26bm%3BContact.bmml%26bm%3BContact.bmml%26bm%3BContact.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C100%2C178%2C130%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22606%2C100%2C797%2C130%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>Accueil%2C%20Jouer%2C%20Pr%E9sentation%2C%20Contact</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

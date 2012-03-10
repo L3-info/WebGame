@@ -2,44 +2,21 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="72" y="11" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
-        <text>Accueil%0Ahttp%3A//www.NoNamedGame.com/</text>
+        <text>WebGame%20-%20%0Ahttp%3A//www.NoNamedGame.com/</text>
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="192" y="89" w="800" h="625" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="192" y="89" w="800" h="130" measuredW="800" measuredH="130" zOrder="2" locked="true" isInGroup="-1">
       <controlProperties>
-        <verticalScrollbar>false</verticalScrollbar>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C298%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C178%2C917%2C208%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A</map>
+        <src>./assets/banniere.bmml</src>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="192" y="189" w="791" h="30" measuredW="313" measuredH="29" zOrder="3" locked="true" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Component" x="192" y="89" w="800" h="650" measuredW="800" measuredH="650" zOrder="1" locked="true" isInGroup="-1">
       <controlProperties>
-        <hrefs>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C294%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%224_0%22/%3E%0A</map>
-        <selectedIndex>-1</selectedIndex>
-        <text>Accueil%2C%20Jouer%2C%20Pr%E9sentation%2C%20Contacts</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22349%2C692%2C394%2C713%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22334%2C706%2C379%2C727%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22352%2C719%2C397%2C740%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22338%2C833%2C383%2C854%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A</map>
+        <src>./assets/footer.bmml</src>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="__group__" x="192" y="89" w="800" h="100" measuredW="800" measuredH="100" zOrder="2" locked="true" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="800" h="100" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="5">
-          <controlProperties>
-            <text/>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="245" y="25" w="-1" h="-1" measuredW="294" measuredH="50" zOrder="1" locked="false" isInGroup="5">
-          <controlProperties>
-            <text>No%20named%20game</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::LinkBar" x="412" y="678" w="-1" h="-1" measuredW="343" measuredH="21" zOrder="4" locked="true" isInGroup="-1">
-      <controlProperties>
-        <hrefs>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22340%2C667%2C385%2C688%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%228_0%22/%3E%0A</map>
-        <text>Accueil%2C%20Qui%20sommes-nous%2C%20Blog%2C%20Mentions%20l%E9gales</text>
-      </controlProperties>
-    </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::HRule" x="192" y="661" w="800" h="-1" measuredW="100" measuredH="5" zOrder="5" locked="true" isInGroup="-1"/>
   </controls>
 </mockup>
