@@ -3,6 +3,7 @@
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="72" y="11" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
         <text>Accueil%0Ahttp%3A//www.NoNamedGame.com/</text>
+        <value>0</value>
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
@@ -11,34 +12,23 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="437" y="114" w="-1" h="-1" measuredW="294" measuredH="50" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="192" y="189" w="791" h="30" measuredW="313" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>No%20named%20game</text>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="192" y="89" w="800" h="100" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="192" y="189" w="791" h="30" measuredW="313" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
+        <hrefs>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C178%2C294%2C208%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%224_0%22/%3E%0A</map>
         <selectedIndex>-1</selectedIndex>
         <text>Accueil%2C%20Jouer%2C%20Pr%E9sentation%2C%20Contacts</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::LinkBar" x="412" y="678" w="-1" h="-1" measuredW="343" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::LinkBar" x="412" y="678" w="-1" h="-1" measuredW="343" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22340%2C667%2C385%2C688%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%229_0%22/%3E%0A</map>
         <text>Accueil%2C%20Qui%20sommes-nous%2C%20Blog%2C%20Mentions%20l%E9gales</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="192" y="661" w="800" h="-1" measuredW="100" measuredH="5" zOrder="7" locked="false" isInGroup="-1"/>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Image" x="228" y="245" w="396" h="229" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="31" controlTypeID="__group__" x="669" y="245" w="267" h="229" measuredW="267" measuredH="229" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="192" y="661" w="800" h="-1" measuredW="100" measuredH="5" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="__group__" x="669" y="245" w="267" h="229" measuredW="267" measuredH="229" zOrder="5" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="267" h="229" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="31">
           <controlProperties>
@@ -82,15 +72,52 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::FieldSet" x="421" y="495" w="342" h="137" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>News</text>
-      </controlProperties>
+    <control controlID="44" controlTypeID="__group__" x="192" y="89" w="800" h="100" measuredW="800" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="800" h="100" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="44">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="245" y="25" w="-1" h="-1" measuredW="294" measuredH="50" zOrder="1" locked="false" isInGroup="44">
+          <controlProperties>
+            <text>No%20named%20game</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="29" y="16" w="151" h="68" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="44">
+          <controlProperties>
+            <text>Banni%E8re%20du%20site</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Paragraph" x="445" y="521" w="303" h="84" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>A%20paragraph%20of%20text.%0AA%20_second_%20%5Brow%5D%20of%20*text*.</text>
-      </controlProperties>
+    <control controlID="45" controlTypeID="__group__" x="228" y="245" w="396" h="229" measuredW="396" measuredH="229" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="396" h="229" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="45">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="113" y="50" w="171" h="128" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="45">
+          <controlProperties>
+            <text>Ici%2C%20une%20image%20du%20jeu%2C%20ou%20mieux%2C%20une%20animation%20faisant%20d%E9filer%20des%20images%20du%20jeu</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="421" y="495" w="342" h="137" measuredW="342" measuredH="137" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="342" h="137" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <text>News</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="24" y="26" w="303" h="84" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="46">
+          <controlProperties>
+            <text>Un%20exemple%20de%20news%20%3A%0AEXCLU%20%3A%20Charly%20est%20homosexuel%20%21</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
   </controls>
 </mockup>
