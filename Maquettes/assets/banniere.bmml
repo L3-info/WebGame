@@ -5,7 +5,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="305" y="45" w="-1" h="-1" measuredW="294" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="313" y="45" w="-1" h="-1" measuredW="294" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>No%20named%20game</text>
       </controlProperties>
