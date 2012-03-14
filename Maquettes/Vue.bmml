@@ -1,0 +1,56 @@
+<mockup version="1.0" skin="sketch" measuredW="1104" measuredH="776" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="192" y="89" w="800" h="130" measuredW="800" measuredH="130" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A</map>
+        <override controlID="2">
+          <text>No%20named%20game</text>
+        </override>
+        <src>./assets/banniere.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Component" x="192" y="89" w="800" h="650" measuredW="800" measuredH="650" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A</map>
+        <src>./assets/footer.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Component" x="80" y="8" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/navigateur.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::TabBar" x="192" y="219" w="800" h="474" measuredW="260" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Profil%26bm%3BProfil.bmml%26bm%3BProfil.bmml%26bm%3BProfil.bmml%2CVue%26bm%3BVue.bmml%26bm%3BVue.bmml%26bm%3BVue.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22132%2C211%2C177%2C236%22%20href%3D%22Profil.bmml%22%20alt%3D%22Profil%22%20id%3D%2224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22177%2C211%2C216%2C236%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%2224_1%22/%3E%0A</map>
+        <text>Profil%2C%20Vue%2C%20Inventaire%2C%20Village</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="218" y="269" w="259" h="209" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::FieldSet" x="534" y="270" w="431" h="206" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Infos</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="557" y="294" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Infos%20sur%20le%20perso%0A%20%0AActions</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::FieldSet" x="249" y="493" w="653" h="170" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Historique</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="305" y="531" w="479" h="66" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Actions%20r%E9alis%E9es%20ou%20subies</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
