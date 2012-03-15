@@ -1,8 +1,8 @@
 <mockup version="1.0" skin="sketch" measuredW="1104" measuredH="776" mockupW="1024" mockupH="768">
   <controls>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="192" y="89" w="800" h="130" measuredW="800" measuredH="130" zOrder="2" locked="true" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="192" y="89" w="800" h="130" measuredW="800" measuredH="130" zOrder="3" locked="true" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_1%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22292%2C181%2C454%2C211%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22292%2C181%2C454%2C211%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22292%2C181%2C454%2C211%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C181%2C290%2C211%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22292%2C181%2C454%2C211%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%223_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22718%2C181%2C909%2C211%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%223_2%22/%3E%0A</map>
         <override controlID="2">
           <text>No%20named%20game</text>
         </override>
@@ -11,18 +11,16 @@
     </control>
     <control controlID="19" controlTypeID="com.balsamiq.mockups::Component" x="192" y="89" w="800" h="650" measuredW="800" measuredH="650" zOrder="1" locked="true" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22341%2C695%2C386%2C716%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%222_0%22/%3E%0A</map>
         <src>./assets/footer.bmml</src>
       </controlProperties>
     </control>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::Component" x="80" y="8" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
+        <override controlID="1">
+          <text>WebGame%20-%20Profil%0Ahttp%3A//www.NoNamedGame.com/profil</text>
+        </override>
         <src>./assets/navigateur.bmml</src>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::TabBar" x="192" y="219" w="800" h="474" measuredW="260" measuredH="100" zOrder="3" locked="true" isInGroup="-1">
-      <controlProperties>
-        <text>Profil%2C%20Vue%2C%20Inventaire%2C%20Village</text>
       </controlProperties>
     </control>
     <control controlID="26" controlTypeID="com.balsamiq.mockups::FieldSet" x="218" y="270" w="747" h="206" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
@@ -30,9 +28,9 @@
         <text>Infos</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="396" y="303" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="393" y="303" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Infos%20sur%20le%20perso</text>
+        <text>Infos%20sur%20le%20perso%0A%09-%20Niveau%0A%09-%20Sant%E9%0A%09-%20Localisation%0A%09-%20Etc</text>
       </controlProperties>
     </control>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::FieldSet" x="249" y="493" w="653" h="170" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
@@ -40,14 +38,29 @@
         <text>Caract%E9ristiques</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="305" y="531" w="479" h="66" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="270" y="543" w="479" h="70" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Actions%20r%E9alis%E9es%20ou%20subies</text>
+        <text>-%20Attaque%0A-%20D%E9fense%0A-%20Magie%0A-%20Etc</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="249" y="327" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="233" y="312" w="145" h="122" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Component" x="192" y="219" w="800" h="474" measuredW="800" measuredH="474" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22132%2C211%2C177%2C236%22%20href%3D%22Profil.bmml%22%20alt%3D%22Profil%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22177%2C211%2C215%2C236%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22215%2C211%2C288%2C236%22%20href%3D%22Inventaire.bmml%22%20alt%3D%22Inventaire%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22288%2C211%2C340%2C236%22%20href%3D%22Village.bmml%22%20alt%3D%22Village%22%20id%3D%221_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22132%2C211%2C177%2C236%22%20href%3D%22Profil.bmml%22%20alt%3D%22Profil%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22177%2C211%2C215%2C236%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22215%2C211%2C288%2C236%22%20href%3D%22Inventaire.bmml%22%20alt%3D%22Inventaire%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22288%2C211%2C340%2C236%22%20href%3D%22Village.bmml%22%20alt%3D%22Village%22%20id%3D%221_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22132%2C211%2C177%2C236%22%20href%3D%22Profil.bmml%22%20alt%3D%22Profil%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22177%2C211%2C215%2C236%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22215%2C211%2C288%2C236%22%20href%3D%22Inventaire.bmml%22%20alt%3D%22Inventaire%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22288%2C211%2C340%2C236%22%20href%3D%22Village.bmml%22%20alt%3D%22Village%22%20id%3D%221_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22132%2C211%2C177%2C236%22%20href%3D%22Profil.bmml%22%20alt%3D%22Profil%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22177%2C211%2C215%2C236%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22215%2C211%2C288%2C236%22%20href%3D%22Inventaire.bmml%22%20alt%3D%22Inventaire%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22288%2C211%2C340%2C236%22%20href%3D%22Village.bmml%22%20alt%3D%22Village%22%20id%3D%221_3%22/%3E%0A</map>
+        <override controlID="1">
+          <selectedIndex>0</selectedIndex>
+          <text>Profil%2C%20Vue%2C%20Inventaire%2C%20Village</text>
+        </override>
+        <src>./assets/onglets.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::StickyNote" x="258" y="329" w="95" h="88" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Image%20du%20perso</text>
       </controlProperties>
     </control>
   </controls>

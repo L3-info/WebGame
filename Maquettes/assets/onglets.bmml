@@ -1,0 +1,15 @@
+<mockup version="1.0" skin="sketch" measuredW="860" measuredH="494" mockupW="800" mockupH="474">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="60" y="20" w="800" h="474" measuredW="258" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Profil%26bm%3BProfil.bmml%26bm%3BProfil.bmml%26bm%3BProfil.bmml%2CVue%26bm%3BVue.bmml%26bm%3BVue.bmml%26bm%3BVue.bmml%2CInventaire%26bm%3BInventaire.bmml%26bm%3BInventaire.bmml%26bm%3BInventaire.bmml%2CVillage%26bm%3BVillage.bmml%26bm%3BVillage.bmml%26bm%3BVillage.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C0%2C65%2C25%22%20href%3D%22Profil.bmml%22%20alt%3D%22Profil%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2265%2C0%2C103%2C25%22%20href%3D%22Vue.bmml%22%20alt%3D%22Vue%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C0%2C176%2C25%22%20href%3D%22Inventaire.bmml%22%20alt%3D%22Inventaire%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22176%2C0%2C228%2C25%22%20href%3D%22Village.bmml%22%20alt%3D%22Village%22%20id%3D%221_3%22/%3E%0A</map>
+        <selectedIndex>-1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Profil%2C%20Vue%2C%20Inventaire%2C%20Village</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
