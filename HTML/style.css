@@ -1,0 +1,40 @@
+#enTete
+{
+    width : 90%;
+    height : 80px;
+    margin : auto;
+    background-color : gray;
+    text-align : center;
+}
+
+#nav
+{
+    width: 20%;
+    height : 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color : gray;
+}
+
+#sec1
+{
+    width: 65%;
+    height : 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color : gray;
+}
+
+#pied
+{
+    width : 90%;
+    height : 80px;
+    margin : auto;
+    background-color : gray;
+    text-align : center;
+}
+
+#titreJeu
+{
+    font-size: 2;
+}
