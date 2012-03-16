@@ -1,6 +1,6 @@
 format 75
 "UML"
-  revision 1
+  revision 2
   modified_by 8 "xleek"
 
 
@@ -70,6 +70,13 @@ format 75
       
       classrelation 130440 // <aggregation>
 	relation_ref 129544 // <aggregation>
+      end
+
+      classrelation 136968 // <directional composition>
+	relation 136072 *-->
+	  a role_name "" private
+	    classrelation_ref 136968 // <directional composition>
+	  b parent class_ref 136200 // Caracteristique
       end
     end
 
@@ -306,6 +313,17 @@ format 75
       classrelation 129672 // <aggregation>
 	relation_ref 129160 // <aggregation>
       end
+    end
+
+    class 136200 "Caracteristique"
+      visibility package 
+      cpp_decl ""
+      java_decl ""
+      php_decl ""
+      python_2_2 python_decl ""
+      idl_decl ""
+      explicit_switch_type ""
+      
     end
   end
 end
